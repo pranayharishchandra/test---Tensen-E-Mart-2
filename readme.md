@@ -4,6 +4,8 @@
 
 <img src="./frontend/public/images/screens.png">
 
+This project is part of my MERN Stack From Scratch | eCommerce Platform course. It is a full-featured shopping cart with PayPal & credit/debit payments. See it in action at https://www.proshopdemo.dev
+
 <!-- toc -->
 
 - [Features](#features)

@@ -105,3 +105,15 @@ jane@email.com (Customer)
 ```
 
 ---
+
+
+### Paypal Credentials
+
+You can use the following email addresses and passwords for making making payment through PayPal.
+```
+sb-439fv129160361@personal.example.com 
+S=8?,"$d
+
+sb-tcjg929174143@personal.example.com
+>g9eI"*5
+```

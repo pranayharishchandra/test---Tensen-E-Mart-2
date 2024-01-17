@@ -1,4 +1,4 @@
-# Tensen-E-Mart eCommerce Platform (v2)
+# Tensen-E-Mart eCommerce Platform 
 
 > eCommerce platform built with the MERN stack & Redux.
 

@@ -1,8 +1,9 @@
 # Tensen-E-Mart eCommerce Platform 
 
 ### Previous Repo
-This links :  https://github.com/pranayharishchandra/Tensen-E-Mart-1
-takes you to initial development repo of this app, because of some issue in that repo, I had to push the same code to this (new) repository.
+
+Due to an accidental push of the frontend/src directory to another repository, the original repository is no longer functional. Please use the following link for the correct repository: [https://github.com/pranayharishchandra/Tensen-E-Mart-2](https://github.com/pranayharishchandra/Tensen-E-Mart-2).
+
 
 > eCommerce platform built with the MERN stack & Redux.
 

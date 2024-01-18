@@ -1,5 +1,9 @@
 # Tensen-E-Mart eCommerce Platform 
 
+### Previous Repo
+This links :  https://github.com/pranayharishchandra/Tensen-E-Mart-1
+takes you to initial development repo of this app, because of some issue in that repo, I had to push the same code to this (new) repository.
+
 > eCommerce platform built with the MERN stack & Redux.
 
 <img src="./frontend/public/images/screens.png">
@@ -12,6 +16,8 @@ This project is part of my MERN Stack From Scratch | eCommerce Platform course. 
 - [Usage](#usage)
   - [Env Variables](#env-variables)
   - [Install Dependencies (frontend & backend)](#install-dependencies-frontend--backend)
+  - [Paypal Credentials](#paypal-credentials)
+- [Previous Repo](#previous-repo)
 
 
 <!-- tocstop -->
@@ -111,9 +117,12 @@ jane@email.com (Customer)
 
 You can use the following email addresses and passwords for making making payment through PayPal.
 ```
-sb-439fv129160361@personal.example.com 
+sb-439fv129160361@personal.example.com
+
+
 S=8?,"$d
 
 sb-tcjg929174143@personal.example.com
 >g9eI"*5
 ```
+

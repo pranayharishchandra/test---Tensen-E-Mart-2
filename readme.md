@@ -5,6 +5,11 @@
 Due to an accidental push of the frontend/src directory to another repository, the original repository is no longer functional. Please use the following link for the correct repository: [https://github.com/pranayharishchandra/Tensen-E-Mart-2](https://github.com/pranayharishchandra/Tensen-E-Mart-2).
 
 
+Old Link: [https://github.com/pranayharishchandra/Tensen-E-Mart-1](https://github.com/pranayharishchandra/Tensen-E-Mart-1)
+New Link: [https://github.com/pranayharishchandra/Tensen-E-Mart-2](https://github.com/pranayharishchandra/Tensen-E-Mart-2)
+
+
+
 > eCommerce platform built with the MERN stack & Redux.
 
 <img src="./frontend/public/images/screens.png">
@@ -99,7 +104,7 @@ npm run data:destroy
 ```
 
 ```
-Sample User Logins
+Sample User Logins (E-mail and passwords)
 
 admin@email.com (Admin)
 123456
@@ -114,16 +119,15 @@ jane@email.com (Customer)
 ---
 
 
-### Paypal Credentials
+### PayPal Credentials
 
-You can use the following email addresses and passwords for making making payment through PayPal.
-```
-sb-439fv129160361@personal.example.com
+For making payments through PayPal, you can use the following sandbox credentials:
 
+```plaintext
+Email: sb-439fv129160361@personal.example.com
+Password: S=8?,"$d
 
-S=8?,"$d
+Email: sb-tcjg929174143@personal.example.com
+Password: >g9eI"*5```
 
-sb-tcjg929174143@personal.example.com
->g9eI"*5
-```
 
